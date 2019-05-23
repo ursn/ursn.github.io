@@ -14,7 +14,7 @@ var init = function(songs) {
 
 	content.appendChild(makeUL(songs));
 
-	setInterval(rotate_diamond, 1000);
+	//setInterval(rotate_diamond, 1000);
 };
 
 var rotate_diamond = function() {
